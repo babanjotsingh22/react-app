@@ -6,7 +6,7 @@ It's repository for code from article
 ## Docker
 
 To build
-
+Test
     npm run docker:build
     
 To run
